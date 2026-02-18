@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <h1>ภาคภูมิ </h1>
-    <img src="img/1.jpg">
+    <h1>ภาคภูมิ 66010914015 </h1>
+    <img src="img/1.jpg width="80">
 </body>
 </html>
